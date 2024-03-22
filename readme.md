@@ -1,6 +1,6 @@
 # Workflow Course Assignment
 
-This project is part of the workflow cours assignment. It showcases the use of SASS for styling, along with a robust testing setup using Jest and Cypress for unit and end-to-end testing, respectively.
+This project is part of the workflow cours assignment. It showcases the settup of a projectworkflow, along with a robust testing setup using Jest and Cypress for unit and end-to-end testing, respectively.
 
 
 ## Getting Started
